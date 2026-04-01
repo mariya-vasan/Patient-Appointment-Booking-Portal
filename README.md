@@ -1,3 +1,4 @@
 # Patient-Appointment-Booking-Portal
 users can book appointments for diagnosis
-author mariya vasan
+<br>
+Author Mariya Vasan
